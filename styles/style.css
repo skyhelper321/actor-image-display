@@ -1,0 +1,13 @@
+#selected-actor-image {
+  position: fixed;
+  top: 100px;
+  left: 150px;
+  z-index: 1000;
+}
+
+#selected-actor-image img {
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 5px;
+  border: 2px solid white;
+}
